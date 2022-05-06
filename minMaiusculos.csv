@@ -1,0 +1,7 @@
+i;i< array.length;"array[i]===""p""";resultado+=array[i].toUpperCase;else(resultado += array[i]);i++;resultado
+0;true;false;-;"[""Presentearei""]";1;"[""Presentearei""]"
+1;true;false;-;;2;"[""Presentearei"",'minha']"
+2;true;false;-;"[""Presentearei"",""minha','mãe']";3;"[""Presentearei"",""minha','mãe']"
+3;true;false;-;"[""Presentearei"",""minha','mãe','com']";4;"[""Presentearei"",""minha','mãe','com']"
+4;true;false;-;"[""Presentearei"",""minha','mãe','com','este']";5;"[""Presentearei"",""minha','mãe','com','este']"
+5;true;true;prato = Prato;"Presentearei"",""minha','mãe','com','este','Prato']";6;"Presentearei"",""minha','mãe','com','este','Prato']"

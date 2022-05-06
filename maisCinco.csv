@@ -1,0 +1,6 @@
+i;i < array.length;resultado= array[i]+5;i++
+0;true;[6];1
+1;true;[6,7];2
+2;true;[6,7,9];3
+3;true;[6,7,9,11];4
+4;true;[6,7,9,11,2];5

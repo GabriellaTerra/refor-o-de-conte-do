@@ -1,0 +1,11 @@
+i;i < array.length;resultado += array[i];i++;i;i < array.length;mediaArr = resultado / array.length;array[i] > mediaArr;media = array[i]
+0;true;1;1;0;true;0,125;;
+1;true;3;2;;;;;
+2;true;7;3;;;;;
+3;true;13;4;;;;;
+4;true;11;5;;;;;
+5;true;8;6;;;;;
+6;true;8;7;;;;;
+7;true;1;8;;;;;
+8;false;-;-;;;;;
+;;;;;;;;

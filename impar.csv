@@ -1,0 +1,6 @@
+i;i<array.length;array[i].length%2!==0;resultado[];i++
+0;true;true;"[""fui""]";1
+1;true;true;"[""fui']";2
+2;true;true;"[""fui"",""padaria""]";3
+3;true;false;['fui','padaria'];4
+4;-;-;-;-
